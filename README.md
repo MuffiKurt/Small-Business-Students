@@ -1,2 +1,1 @@
-# Small-Business-Students
-Small-Business-Student
+# Small-Business-Student
